@@ -26,3 +26,8 @@ printPromise.then((msg) => {
 //   .then(() => {
 //     console.log('执行了')
 //   })
+
+
+
+
+// node7.6 以后才支持async/await语法
