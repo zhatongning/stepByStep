@@ -1,5 +1,9 @@
 //class的extend 的实现原来
 // 由下面的typescript编译而来
+// 对照superAttachment.js文件
+// superAttachment.js中简单实现了extend方法，这里就是对其优化和封装
+
+// { __proto__: [] } instanceof Array 确保浏览器支持__proto__
 
 var __extends = (this && this.__extends) || (function () {
     var extendStatics = Object.setPrototypeOf ||
