@@ -1,2 +1,3 @@
-node_modules/
+projectName/node_modules/
+projectName/dist/
 *.log
