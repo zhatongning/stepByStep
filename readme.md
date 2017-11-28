@@ -1,1 +1,3 @@
-a gulp-template-cli for project
+# webpack-cli
+
+a swift simple-webpack-install productor
